@@ -71,7 +71,7 @@ results = model(task='detect', source='./test.jpg', save=True)  # predict on an 
 
 pytorch效果
 
-![在这里插入图片描述](<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/44ac69c4-f998-4c69-83c7-a7483e0df140" />)
+![在这里插入图片描述](https://github.com/cqu20160901/yolo26_onnx_rknn/blob/main/yolo26n_onnx/test_pytorch_result.jpg)
 
 onnx效果
 
