@@ -2,8 +2,6 @@
 #include <algorithm>
 #include <math.h>
 
-#define ZQ_MAX(a, b) ((a) > (b) ? (a) : (b))
-#define ZQ_MIN(a, b) ((a) < (b) ? (a) : (b))
 
 static inline float fast_exp(float x)
 {
